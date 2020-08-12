@@ -1,0 +1,11 @@
+{
+    "api_url": "https://gitlab.com",
+    "private_token": "your-access-token",
+    "groups": "myorg mygroup",
+    "projects": "myorg/repo-a myorg/repo-b",
+    "start_date": "2018-01-01T00:00:00Z",
+    "ultimate_license": true,
+    "fetch_merge_request_commits": false,
+    "fetch_pipelines_extended": false
+  }
+  

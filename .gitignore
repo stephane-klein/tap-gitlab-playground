@@ -1,0 +1,5 @@
+.venv
+volumes/
+tap-gitlab-config.json
+state.json
+state-target.json
