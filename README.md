@@ -43,7 +43,7 @@ $ ./.venv/target-postgres/bin/pip install singer-target-postgres==0.2.4
 $ ./scripts/up.sh
 ```
 
-## Execute Pipedrive importation to PostgreSQL
+## Execute GitLab importation to PostgreSQL
 
 The first time, when `state.json` don't exists, execute:
 
