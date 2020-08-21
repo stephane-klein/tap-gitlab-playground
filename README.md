@@ -60,7 +60,7 @@ Next execute this commands to use `state.json` [Singer State](https://github.com
 ```
 $ ./.venv/tap-gitlab/bin/tap-gitlab \
     -c tap-gitlab-config.json \
-    -t state.json \
+    -s state.json \
   | ./.venv/target-postgres/bin/target-postgres \
     --config target_postgres_config.json \
     > state-target.json
